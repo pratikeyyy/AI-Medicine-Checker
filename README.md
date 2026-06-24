@@ -52,11 +52,12 @@ AI-Medicine-Checker/
 
 ### Home Page
 
-> Add screenshot here
+![Home](home.png)
 
 ### Prediction Result
 
-> Add screenshot here
+
+![Result](result.png)
 
 ---
 
