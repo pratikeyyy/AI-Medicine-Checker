@@ -1,6 +1,8 @@
 gradio
 easyocr
 google-generativeai
+fpdf2
+gtts
 Pillow
 opencv-python-headless
 numpy
