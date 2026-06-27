@@ -99,4 +99,4 @@ GitHub: https://github.com/pratikeyyy
 
 ---
 
-⭐ If you like this project, consider giving it a star!
+⭐ If you like this project, consider giving it a star! ❤️🌹
